@@ -2590,7 +2590,7 @@ Getting values from an object:
   console.log(person.lastName);
   console.log(person.getFullName());
   // value can be accessed
-  console.log(person['age');
+  console.log(person['age']);
   console.log(person['location']);
 ```
 
